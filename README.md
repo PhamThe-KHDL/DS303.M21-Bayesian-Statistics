@@ -1,6 +1,6 @@
 # DS303.M21 - Bayesian Statistics
 
-DS303.M21 - Thống kê Bayes
+DS303.M21 - Thống Kê Bayes
 
 Học kỳ 2 Năm 3 Năm học 2021-2022 
 
