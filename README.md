@@ -12,7 +12,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | Buổi | Ngày | Nội Dung | Tóm Tắt | LT/TH | Slide | Video Record |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | 01 | 02/03/2022 | Giới Thiệu Thống Kê Bayes |  | LT-01 |  | [01 - Giới Thiệu Thống Kê Bayes](https://youtu.be/gzgSwGi6uYY) |
-| 02 |  |  |  |  |  |  |
+| 02 | 09/03/2022 | Giới Thiệu Thống Kê Bayes và Một Số Phân Phối Thông Dụng |  | LT-02 |  | [02 - Giới Thiệu Thống Kê Bayes và Một Số Phân Phối Thông Dụng](https://youtu.be/-Kg1WK8zoxU) |
 | 03 |  |  |  |  |  |  |
 | 04 |  |  |  |  |  |  |
 | 05 |  |  |  |  |  |  |
