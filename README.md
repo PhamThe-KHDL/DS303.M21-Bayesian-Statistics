@@ -37,6 +37,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 ## Tham Khảo Thêm
 
 - [MA40189: Topics in Bayesian statistics](https://people.bath.ac.uk/masss/ma40189.html)
+- [Chapter 2 - Conjugate distributions](https://vioshyvo.github.io/Bayesian_inference/conjugate-distributions.html)
 
 
 
