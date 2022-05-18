@@ -19,7 +19,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 | 06 | 20/04/2022 | Ước Lượng Bayes |  | TL-06 | [06 - Uước lượng Bayes](https://github.com/PhamThe-KHDL/DS303.M21-Bayesian-Statistics/blob/main/L%C3%9D%20THUY%E1%BA%BET/06%20-%20%C6%AF%E1%BB%9Bc%20l%C6%B0%E1%BB%A3ng%20Bayes.pdf) | Offline <br /> [06 -  Ước Lượng Bayes](https://youtu.be/9mCM1NsV6tM) |
 | 07 | 27/04/2022 | Kiểm Định Giả Thuyết Thống Kê |  | LT-07 | [07 - Kiểm Định Giả Thuyết Thống Kê](https://github.com/PhamThe-KHDL/DS303.M21-Bayesian-Statistics/blob/main/L%C3%9D%20THUY%E1%BA%BET/07%20-%20Ki%E1%BB%83m%20%C4%91%E1%BB%8Bnh%20gi%E1%BA%A3%20thuy%E1%BA%BFt%20th%E1%BB%91ng%20k%C3%AA.pdf) | Offline <br /> [07 - Kiểm Định Giả Thuyết Thống Kê Part 1](https://youtu.be/MeN8R0e4BR8) <br /> [07 - Kiểm Định Giả Thuyết Thống Kê Part 2](https://youtu.be/MOckrwX0yfA) <br /> [07 - Kiểm Định Giả Thuyết Thống Kê Part 3](https://youtu.be/waNlAVgQ4II) |
 | 08 | 04/05/2022 | Bayesian Linear Regression |  | LT-08 | [08 - Bayesian Linear Regression](https://github.com/PhamThe-KHDL/DS303.M21-Bayesian-Statistics/blob/main/L%C3%9D%20THUY%E1%BA%BET/08%20-%20Bayesian%20Linear%20Regression.pdf) | Offline <br /> [08 - Bayesian Linear Regression]() |
-| 09 |  |  |  |  |  |  |
+| 09 | 18/05/2022 | Làm Bài Tập Bayes |  | LT-09 |  | Offline |
 | 10 |  |  |  |  |  |  |
 
 
