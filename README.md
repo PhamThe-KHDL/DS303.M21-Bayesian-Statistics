@@ -30,7 +30,7 @@ Học kỳ 2 Năm 3 Năm học 2021-2022
 - [MA40189: Topics in Bayesian statistics](https://people.bath.ac.uk/masss/ma40189.html)
 - [Chapter 2 - Conjugate distributions](https://vioshyvo.github.io/Bayesian_inference/conjugate-distributions.html)
 - [MLE for a Poisson Distribution (Step-by-Step)](https://www.statology.org/mle-poisson-distribution/)
-
+- [Bayesian](http://web.thu.edu.tw/wenwei/www/bayesmarginpdf.htm)
 
 
 ## Thực hiện
